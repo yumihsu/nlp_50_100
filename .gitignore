@@ -1,0 +1,8 @@
+*.zip
+*.csv
+*.tmp
+*.ipynb_checkpoints
+*.pth
+*.h5
+*.pb
+*data*
