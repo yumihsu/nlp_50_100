@@ -5,4 +5,5 @@
 *.pth
 *.h5
 *.pb
+*.txt
 *data*
